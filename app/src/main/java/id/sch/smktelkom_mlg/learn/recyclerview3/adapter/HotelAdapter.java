@@ -10,8 +10,8 @@ import android.widget.TextView;
 import java.util.ArrayList;
 import java.util.List;
 
-import id.sch.smktelkom_mlg.learn.recyclerview1.R;
-import id.sch.smktelkom_mlg.learn.recyclerview1.model.Hotel;
+import id.sch.smktelkom_mlg.learn.recyclerview3.R;
+import id.sch.smktelkom_mlg.learn.recyclerview3.model.Hotel;
 
 /**
  * Created by asus on 31-Oct-16.
