@@ -21,7 +21,8 @@
         <activity
             android:name=".Detail_activity"
             android:label="@string/title_activity_detail_activity"
-            android:theme="@style/AppTheme.NoActionBar"></activity>
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".InputActivity"></activity>
     </application>
 
 </manifest>
